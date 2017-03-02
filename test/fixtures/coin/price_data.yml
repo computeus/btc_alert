@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price_id: 1
+  coin_id: 1
+  last: 
+  lowest_ask: 
+  highest_bid: 
+  base_volume: 
+  quote_volume: 
+  highest_day: 
+  lowest_day: 
+
+two:
+  price_id: 1
+  coin_id: 1
+  last: 
+  lowest_ask: 
+  highest_bid: 
+  base_volume: 
+  quote_volume: 
+  highest_day: 
+  lowest_day: 
